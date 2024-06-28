@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Kursovay\Kursovay\bin\Debug\Kursovay.exe.config
+C:\Users\hp\source\repos\Kursovay\Kursovay\bin\Debug\Kursovay.exe
+C:\Users\hp\source\repos\Kursovay\Kursovay\bin\Debug\Kursovay.pdb
+C:\Users\hp\source\repos\Kursovay\Kursovay\obj\Debug\Kursovay.Form1.resources
+C:\Users\hp\source\repos\Kursovay\Kursovay\obj\Debug\Kursovay.Properties.Resources.resources
+C:\Users\hp\source\repos\Kursovay\Kursovay\obj\Debug\Kursovay.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kursovay\Kursovay\obj\Debug\Kursovay.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Kursovay\Kursovay\obj\Debug\Kursovay.exe
+C:\Users\hp\source\repos\Kursovay\Kursovay\obj\Debug\Kursovay.pdb
+C:\Users\hp\source\repos\Kursovay\Kursovay\bin\Debug\ConsoleTables.dll
+C:\Users\hp\source\repos\Kursovay\Kursovay\bin\Debug\ConsoleTables.pdb
+C:\Users\hp\source\repos\Kursovay\Kursovay\obj\Debug\Kursovay.Form2.resources
+C:\Users\hp\source\repos\Kursovay\Kursovay\obj\Debug\Kursovay.csproj.CopyComplete
